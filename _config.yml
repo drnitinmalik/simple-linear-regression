@@ -13,6 +13,8 @@ social-network-links:
   facebook: dr.malik.nitin
   github: drnitinmalik
   twitter: drnitinmalik1
+  linkedin: drnitinmalik
+  ORCID: 0000-0003-1484-9841
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -28,5 +30,14 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+#  google-scholar: your google scholar
+# rss-description: RSS Link
+
+# Select which social network share links to show in posts
+share-links-active:
+  twitter: true
+  linkedin: true
+  
+# How to display the link to your website in the footer
+url-pretty: "https://www.linkedin.com/in/drnitinmalik/"
 Feel free to bookmark this webpag to keep an eye on the updates
