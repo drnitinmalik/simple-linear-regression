@@ -1,6 +1,12 @@
 theme: jekyll-theme-cayman
 title: Simple Linear Regression
+tagline: Pre-regression steps, Regression model, Post-regression analysis
 author: Nitin Malik
+show_downloads: true
+# About/contact
+author:
+  name:       Nitin Malik
+  url:        https://www.linkedin.com/in/drnitinmalik
 navbar-links:
   About Me: "Professor of Data Science"
   Resources:
