@@ -3,9 +3,11 @@ title: Simple Linear Regression
 tagline: Pre-regression steps, Regression model, Post-regression analysis
 description: Pre-regression steps, Regression model, Post-regression analysis
 baseurl: "/simple-linear-regression"
-url: "localhost:4000"
+url: "drnitinmalik.github.io/simple-linear-regression
 author: Nitin Malik
 show_downloads: true
+future: true
+markdown: kramdown
 # About/contact
 author:
   name:       Nitin Malik
