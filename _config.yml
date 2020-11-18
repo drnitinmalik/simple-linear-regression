@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+theme: jekyll-theme-cayman
 title: Simple Linear Regression
 tagline: Regression line, Overfitting, Underfitting, Bias, Variance
 description: Pre-regression steps, Regression model, Post-regression analysis
