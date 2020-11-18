@@ -4,14 +4,14 @@ tagline: Regression line, Overfitting, Underfitting, Bias, Variance
 description: Pre-regression steps, Regression model, Post-regression analysis
 baseurl: "/simple-linear-regression/"
 url: "https://drnitinmalik.github.io"
-author: Nitin Malik
-name: Nitin Malik
 show_downloads: true
 future: true
 markdown: kramdown
 # About/contact
 author:
   name: Nitin Malik
+  bio: Professor of Data Science
+  location: India
   url: https://www.linkedin.com/in/drnitinmalik
 navbar-links:
   About Me: Professor of Data Science
@@ -28,14 +28,12 @@ social-network-links:
   linkedin: drnitinmalik
   ORCID: 0000-0003-1484-9841
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: drnitinmalik
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
+#  youtube: user/drnitinmalik
+#  telephone: +918010529215
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -52,4 +50,7 @@ share-links-active:
   
 # How to display the link to your website in the footer
 url-pretty: https://www.linkedin.com/in/drnitinmalik/
+footer:
+  links:
+    url: https://www.linkedin.com/in/drnitinmalik/
 #Feel free to bookmark this webpag to keep an eye on the updates
