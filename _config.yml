@@ -1,10 +1,11 @@
 theme: jekyll-theme-dinky
 title: Simple Linear Regression
-tagline: Pre-regression steps, Regression model, Post-regression analysis
+tagline: Regression line, Overfitting, Underfitting, Bias, Variance
 description: Pre-regression steps, Regression model, Post-regression analysis
-baseurl: "/simple-linear-regression"
-url: "drnitinmalik.github.io/simple-linear-regression"
+baseurl: "/simple-linear-regression/"
+url: "https://drnitinmalik.github.io"
 author: Nitin Malik
+name: Nitin Malik
 show_downloads: true
 future: true
 markdown: kramdown
