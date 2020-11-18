@@ -3,24 +3,24 @@ title: Simple Linear Regression
 tagline: Pre-regression steps, Regression model, Post-regression analysis
 description: Pre-regression steps, Regression model, Post-regression analysis
 baseurl: "/simple-linear-regression"
-url: "drnitinmalik.github.io/simple-linear-regression
+url: "drnitinmalik.github.io/simple-linear-regression"
 author: Nitin Malik
 show_downloads: true
 future: true
 markdown: kramdown
 # About/contact
 author:
-  name:       Nitin Malik
-  url:        https://www.linkedin.com/in/drnitinmalik
+  name: Nitin Malik
+  url: https://www.linkedin.com/in/drnitinmalik
 navbar-links:
-  About Me: "Professor of Data Science"
+  About Me: Professor of Data Science
   Resources:
-    - Neural Netorks: "http://neuralnetworksanddeeplearning.com/"
-    - markdown: "https://www.markdowntutorial.com/"
-    - Python: "https://www.hackerrank.com/domains/python"
-  Author's home: "https://www.linkedin.com/in/drnitinmalik/"
+    - Neural Netorks: http://neuralnetworksanddeeplearning.com/
+    - markdown: https://www.markdowntutorial.com/
+    - Python: https://www.hackerrank.com/domains/python
+  Author's home: https://www.linkedin.com/in/drnitinmalik/
 social-network-links:
-  email: "nitinmalik77@gmail.com"
+  email: nitinmalik77@gmail.com
   facebook: dr.malik.nitin
   github: drnitinmalik
   twitter: drnitinmalik1
@@ -50,5 +50,5 @@ share-links-active:
   linkedin: true
   
 # How to display the link to your website in the footer
-url-pretty: "https://www.linkedin.com/in/drnitinmalik/"
-Feel free to bookmark this webpag to keep an eye on the updates
+url-pretty: https://www.linkedin.com/in/drnitinmalik/
+#Feel free to bookmark this webpag to keep an eye on the updates
