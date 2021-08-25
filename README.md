@@ -12,4 +12,4 @@ When the same regression model is run on the test dataset, the model performance
 
 Continue reading at [linkedin](https://www.linkedin.com/pulse/simple-linear-regression-overview-nitin-malik/) 
 
-The [python code](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SLR%20predicting%20GPA%20from%20SAT.py) and the [data file](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT%20GPA.csv) is on github.
+The [python code](https://github.com/drnitinmalik/simple-linear-regression/blob/main/predict-GPA-from-SAT.py) and the [data file](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT-GPA.csv) is on github.
