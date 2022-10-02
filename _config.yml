@@ -33,6 +33,9 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  instagram: deanat78
 #  youtube: user/drnitinmalik
+- name: Translate Readme Action
+  uses: dephraiim/translate-readme@v1
+
 #  telephone: +918010529215
 #  steam: deanat78
 #  twitch: yourname
