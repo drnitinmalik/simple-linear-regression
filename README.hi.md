@@ -6,12 +6,12 @@
 
 रैखिक प्रतिगमन का तात्पर्य है कि आश्रित चर और स्वतंत्र चर के बीच संबंध रैखिक है और इस प्रकार इसे एक सीधी रेखा द्वारा वर्णित किया जा सकता है जिसे कहा जाता है**प्रतिगमन लाइन**. हम एक प्रतिगमन रेखा खोजने की प्रक्रिया में हैं जो डेटा बिंदुओं की अधिकतम संख्या (डेटा बिंदुओं की संख्या = डेटासेट में रिकॉर्ड की संख्या) को फिट (स्पर्श) करती है।
 
-The inability of the regression line to touch all the training data points is called bias. A machine learning model with high bias pays little attention to the training data and oversimplifies the model. [ट्वीट करने के लिए क्लिक करें](https://clicktotweet.com/6Rcfz)
+सभी प्रशिक्षण डेटा बिंदुओं को छूने के लिए प्रतिगमन रेखा की अक्षमता को पूर्वाग्रह कहा जाता है। उच्च पूर्वाग्रह वाला मशीन लर्निंग मॉडल प्रशिक्षण डेटा पर बहुत कम ध्यान देता है और मॉडल की देखरेख करता है।[ट्वीट करने के लिए क्लिक करें](https://clicktotweet.com/6Rcfz)
 
 जब परीक्षण डेटासेट पर समान प्रतिगमन मॉडल चलाया जाता है, तो मॉडल प्रदर्शन मीट्रिक का पुनर्मूल्यांकन किया जाता है। यदि परीक्षण डेटा पर मीट्रिक मान प्रशिक्षण डेटा पर प्राप्त मीट्रिक से कम है, तो मॉडल को कहा जाता है**ओवरफिटिंग**. यदि यह दूसरी तरफ है, तो मॉडल को कहा जाता है**अंडरफिटिंग**. विभिन्न डेटासेट (हमारे मामले में प्रशिक्षण और परीक्षण डेटासेट) के बीच फिट (पूर्वाग्रह) में इस अंतर को कहा जाता है**झगड़ा**. वेरिएंस एक मॉडल से संबंधित है जो परीक्षण डेटासेट में फिट होने में विफल रहता है। उच्च विचरण वाला एक मॉडल परीक्षण डेटासेट पर अच्छी तरह से सामान्यीकरण नहीं करता है और कहा जाता है कि इसे ओवरफिट किया गया है।
 
 यहां पढ़ना जारी रखें[लिंक्डइन](https://www.linkedin.com/pulse/simple-linear-regression-overview-nitin-malik/)
 
-The [अजगर कोड](https://github.com/drnitinmalik/simple-linear-regression/blob/main/predict-GPA-from-SAT.py)और यह[डेटा फ़ाइल](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT-GPA.csv)जीथब पर है।
+[अजगर कोड](https://github.com/drnitinmalik/simple-linear-regression/blob/main/predict-GPA-from-SAT.py)और यह[डेटा फ़ाइल](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT-GPA.csv)जीथब पर है।
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)**अपने पहले पुल अनुरोध पर काम कर रहे हैं?**आप इससे कैसे सीख सकते हैं_नि: शुल्क_श्रृंखला[GitHub पर एक ओपन सोर्स प्रोजेक्ट में योगदान कैसे करें](https://kcd.im/pull-request)
