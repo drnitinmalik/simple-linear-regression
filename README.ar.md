@@ -4,15 +4,14 @@
 
 الانحدار يعني السببية. التغيير في المتغير التابع يرجع إلى التغيير في المتغير المستقل.
 
-يشير الانحدار الخطي إلى أن العلاقة بين المتغير التابع والمتغير المستقل هي علاقة خطية وبالتالي يمكن وصفها بخط مستقيم يعرف باسم**خط الانحدار**. نحن بصدد البحث عن خط انحدار يناسب (يلامس) الحد الأقصى لعدد نقاط البيانات (عدد نقاط البيانات = عدد السجلات في مجموعة البيانات).
+Linear regression implies that the relationship between the dependent variable and independent variable is linear and thus can be described by a straight line known as the **خط الانحدار**. نحن بصدد البحث عن خط انحدار يناسب (يلامس) الحد الأقصى لعدد نقاط البيانات (عدد نقاط البيانات = عدد السجلات في مجموعة البيانات).
 
-The inability of the regression line to touch all the training data points is called bias. A machine learning model with high bias pays little attention to the training data and oversimplifies the model. [انقر للتغريد](https://clicktotweet.com/6Rcfz)
+يُطلق على عدم قدرة خط الانحدار على لمس جميع نقاط بيانات التدريب اسم التحيز. لا يولي نموذج التعلم الآلي ذو التحيز العالي اهتمامًا كبيرًا لبيانات التدريب ويبسط النموذج بشكل مفرط.[click to tweet](https://clicktotweet.com/6Rcfz)
 
-When the same regression model is run on the test dataset, the model performance metric is reevaluated. If the metric value on test data is less than that obtained on training data, the model is said to be **overfitting**. إذا كان الأمر مختلفًا ، فيُقال إن النموذج كذلك**غير مناسب**. يسمى هذا الاختلاف في النوبات (التحيز) بين مجموعات البيانات المختلفة (مجموعة بيانات التدريب والاختبار في حالتنا)**التباين**. يرتبط التباين بنموذج لا يلائم مجموعة بيانات الاختبار. النموذج ذو التباين العالي لا يعمم جيدًا على مجموعة بيانات الاختبار ويقال إنه مُجهز بشكل زائد.
+عند تشغيل نموذج الانحدار نفسه على مجموعة بيانات الاختبار ، تتم إعادة تقييم مقياس أداء النموذج. إذا كانت القيمة المترية لبيانات الاختبار أقل من تلك التي تم الحصول عليها في بيانات التدريب ، فيُقال إن النموذج كذلك**overfitting**. إذا كان الأمر مختلفًا ، فيُقال إن النموذج كذلك**غير مناسب**. This difference in fits (bias) between different datasets (training and testing dataset in our case) is called **التباين**. يرتبط التباين بنموذج لا يلائم مجموعة بيانات الاختبار. النموذج ذو التباين العالي لا يعمم جيدًا على مجموعة بيانات الاختبار ويقال إنه مُجهز بشكل زائد.
 
 أكمل القراءة في[ينكدين](https://www.linkedin.com/pulse/simple-linear-regression-overview-nitin-malik/)
 
 ال[كود بيثون](https://github.com/drnitinmalik/simple-linear-regression/blob/main/predict-GPA-from-SAT.py)و ال[ملف البيانات](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT-GPA.csv)موجود على جيثب.
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-**هل تعمل على أول طلب سحب لك؟**يمكنك أن تتعلم كيف من هذا_مجانا_سلسلة[كيفية المساهمة في مشروع مفتوح المصدر على GitHub](https://kcd.im/pull-request)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)**هل تعمل على أول طلب سحب لك؟**يمكنك أن تتعلم كيف من هذا_مجانا_سلسلة[كيفية المساهمة في مشروع مفتوح المصدر على GitHub](https://kcd.im/pull-request)
