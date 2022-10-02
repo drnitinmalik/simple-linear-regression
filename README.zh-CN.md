@@ -12,6 +12,6 @@
 
 继续阅读[链接素](https://www.linkedin.com/pulse/simple-linear-regression-overview-nitin-malik/)
 
-The [python code](https://github.com/drnitinmalik/simple-linear-regression/blob/main/predict-GPA-from-SAT.py)和[数据文件](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT-GPA.csv)在github上。
+这[蟒蛇代码](https://github.com/drnitinmalik/simple-linear-regression/blob/main/predict-GPA-from-SAT.py)和[数据文件](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT-GPA.csv)在github上。
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)**处理你的第一个拉取请求？**你可以从中学习如何_free_系列[How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)**处理你的第一个拉取请求？**你可以从中学习如何_自由的_系列[如何为 GitHub 上的开源项目做出贡献](https://kcd.im/pull-request)
