@@ -14,4 +14,4 @@
 
 這[蟒蛇代碼](https://github.com/drnitinmalik/simple-linear-regression/blob/main/predict-GPA-from-SAT.py)和[數據文件](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT-GPA.csv)在github上。
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)**處理你的第一個拉取請求？**你可以從中學習如何_自由的_ series [如何為 GitHub 上的開源項目做出貢獻](https://kcd.im/pull-request)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)**處理你的第一個拉取請求？**你可以從中學習如何_自由的_系列[如何為 GitHub 上的開源項目做出貢獻](https://kcd.im/pull-request)
