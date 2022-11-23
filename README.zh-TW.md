@@ -3,6 +3,7 @@
 -   [簡單線性回歸](https://github.com/drnitinmalik/simple-linear-regression#simple-linear-regression)
 -   [代碼和數據集](https://github.com/drnitinmalik/simple-linear-regression#code-and-dataset)
 -   [錯誤和功能請求](https://github.com/drnitinmalik/simple-linear-regression#bugs-and-feature-requests)
+-   [提交拉取請求](https://github.com/drnitinmalik/simple-linear-regression#submitting-a-pull-request)
 -   [版權](https://github.com/drnitinmalik/simple-linear-regression#copyright)
 
 ## 簡單線性回歸
@@ -27,8 +28,10 @@
 
 識別代碼中的錯誤或功能請求，[請打開一個新問題](https://github.com/drnitinmalik/simple-linear-regression/issues/new/choose)
 
+## 提交拉取請求
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)**正在處理您的第一個 Pull Request？**你可以從中學習如何_自由的_系列[如何為 GitHub 上的開源項目做出貢獻](https://kcd.im/pull-request)
+
 ## 版權
 
 代碼和文檔版權所有 2020–2022[作者](https://github.com/drnitinmalik/simple-linear-regression/graphs/contributors).根據 MIT 許可證發布的代碼。下發布的文檔[創作共用](https://creativecommons.org/licenses/by/3.0/).
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)**正在處理您的第一個 Pull Request？**你可以從中學習如何_自由的_系列[如何為 GitHub 上的開源項目做出貢獻](https://kcd.im/pull-request)
