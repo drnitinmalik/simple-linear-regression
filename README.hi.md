@@ -3,6 +3,7 @@
 -   [सरल रेखीय प्रतिगमन](https://github.com/drnitinmalik/simple-linear-regression#simple-linear-regression)
 -   [कोड और डेटासेट](https://github.com/drnitinmalik/simple-linear-regression#code-and-dataset)
 -   [बग और फ़ीचर अनुरोध](https://github.com/drnitinmalik/simple-linear-regression#bugs-and-feature-requests)
+-   [एक पुल अनुरोध सबमिट करना](https://github.com/drnitinmalik/simple-linear-regression#submitting-a-pull-request)
 -   [कॉपीराइट](https://github.com/drnitinmalik/simple-linear-regression#copyright)
 
 ## सरल रेखीय प्रतिगमन
@@ -15,7 +16,7 @@
 
 सभी प्रशिक्षण डेटा बिंदुओं को छूने के लिए प्रतिगमन रेखा की अक्षमता को पूर्वाग्रह कहा जाता है। उच्च पूर्वाग्रह वाला मशीन लर्निंग मॉडल प्रशिक्षण डेटा पर बहुत कम ध्यान देता है और मॉडल को ओवरसिम्प्लीफाई करता है।[ट्वीट करने के लिए क्लिक करें](https://clicktotweet.com/6Rcfz)
 
-जब वही प्रतिगमन मॉडल परीक्षण डेटासेट पर चलाया जाता है, तो मॉडल प्रदर्शन मीट्रिक का पुनर्मूल्यांकन किया जाता है। यदि परीक्षण डेटा पर मीट्रिक मूल्य प्रशिक्षण डेटा पर प्राप्त मीट्रिक मूल्य से कम है, तो मॉडल कहा जाता है**overfitting**. यदि इसका उल्टा होता है, तो कहा जाता है कि मॉडल है**अंडरफिटिंग**. विभिन्न डेटासेट (हमारे मामले में प्रशिक्षण और परीक्षण डेटासेट) के बीच फिट (पूर्वाग्रह) में यह अंतर कहा जाता है**झगड़ा**. प्रसरण एक मॉडल से संबंधित है जो परीक्षण डाटासेट में फिट होने में विफल रहता है। उच्च विचरण वाला मॉडल परीक्षण डेटासेट पर अच्छी तरह से सामान्यीकृत नहीं होता है और इसे ओवरफिटेड कहा जाता है।
+जब वही प्रतिगमन मॉडल परीक्षण डेटासेट पर चलाया जाता है, तो मॉडल प्रदर्शन मीट्रिक का पुनर्मूल्यांकन किया जाता है। यदि परीक्षण डेटा पर मीट्रिक मूल्य प्रशिक्षण डेटा पर प्राप्त मीट्रिक मूल्य से कम है, तो मॉडल कहा जाता है**overfitting**. यदि इसका उल्टा होता है, तो कहा जाता है कि मॉडल है**underfitting**. विभिन्न डेटासेट (हमारे मामले में प्रशिक्षण और परीक्षण डेटासेट) के बीच फिट (पूर्वाग्रह) में यह अंतर कहा जाता है**झगड़ा**. प्रसरण एक मॉडल से संबंधित है जो परीक्षण डाटासेट में फिट होने में विफल रहता है। उच्च विचरण वाला मॉडल परीक्षण डेटासेट पर अच्छी तरह से सामान्यीकृत नहीं होता है और इसे ओवरफिटेड कहा जाता है।
 
 पर पढ़ना जारी रखें[लिंक्डइन](https://www.linkedin.com/pulse/simple-linear-regression-overview-nitin-malik/)
 
@@ -23,12 +24,14 @@
 
 [अजगर कोड](https://github.com/drnitinmalik/simple-linear-regression/blob/main/predict-GPA-from-SAT.py)और यह[डेटा फ़ाइल](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT-GPA.csv)जीथब पर है।
 
-## Bugs and Feature requests
+## बग और फ़ीचर अनुरोध
 
 कोड या सुविधा अनुरोधों में एक बग की पहचान की,[कृपया एक नया मुद्दा खोलें](https://github.com/drnitinmalik/simple-linear-regression/issues/new/choose)
 
-## कॉपीराइट
-
-Code and documentation copyright 2020–2022 [लेखक](https://github.com/drnitinmalik/simple-linear-regression/graphs/contributors). कोड एमआईटी लाइसेंस के तहत जारी किया गया। डॉक्युमेंट्स के तहत जारी किया गया[क्रिएटिव कॉमन्स](https://creativecommons.org/licenses/by/3.0/).
+## एक पुल अनुरोध सबमिट करना
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)**अपने पहले पुल अनुरोध पर काम कर रहे हैं?**आप इससे कैसे सीख सकते हैं_नि: शुल्क_श्रृंखला[गिटहब पर ओपन सोर्स प्रोजेक्ट में योगदान कैसे करें](https://kcd.im/pull-request)
+
+## कॉपीराइट
+
+कोड और प्रलेखन कॉपीराइट 2020–2022[लेखक](https://github.com/drnitinmalik/simple-linear-regression/graphs/contributors). कोड एमआईटी लाइसेंस के तहत जारी किया गया। डॉक्युमेंट्स के तहत जारी किया गया[क्रिएटिव कॉमन्स](https://creativecommons.org/licenses/by/3.0/).
