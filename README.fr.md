@@ -1,4 +1,11 @@
-# Étapes de pré-régression, modèle de régression, analyse de post-régression
+## Table des matières
+
+-   [Régression linéaire simple](https://github.com/drnitinmalik/simple-linear-regression#simple-linear-regression)
+-   [Code et jeu de données](https://github.com/drnitinmalik/simple-linear-regression#code-and-dataset)
+-   [Bogues et demandes de fonctionnalités](https://github.com/drnitinmalik/simple-linear-regression#bugs-and-feature-requests)
+-   [droits d'auteur](https://github.com/drnitinmalik/simple-linear-regression#copyright)
+
+## Régression linéaire simple
 
 Dans la régression (également connue sous le nom d'approximation de fonction), nous sommes intéressés à prédire une variable (dépendante) à partir d'une ou plusieurs variables (indépendantes) (de n'importe quel type de données). Si nous avons une variable indépendante, il s'agit d'une simple régression, par exemple, prédire la taille à partir du poids. S'il y en a plusieurs, il s'agit d'une régression multiple, par ex. prédire la taille à partir du poids et de l'âge.
 
@@ -12,6 +19,16 @@ Lorsque le même modèle de régression est exécuté sur le jeu de données de 
 
 Continuez à lire sur[LinkedIn](https://www.linkedin.com/pulse/simple-linear-regression-overview-nitin-malik/)
 
+## Code et jeu de données
+
 La[code Python](https://github.com/drnitinmalik/simple-linear-regression/blob/main/predict-GPA-from-SAT.py)et le[fichier de données](https://github.com/drnitinmalik/simple-linear-regression/blob/main/SAT-GPA.csv)est sur github.
+
+## Bugs et demandes de fonctionnalités
+
+Identifié un bug dans le code ou une demande de fonctionnalité,[merci d'ouvrir un nouveau sujet](https://github.com/drnitinmalik/simple-linear-regression/issues/new/choose)
+
+## droits d'auteur
+
+Code et documentation copyright 2020–2022[l'auteur](https://github.com/drnitinmalik/simple-linear-regression/graphs/contributors). Code publié sous la licence MIT. Documents publiés sous[Creative Commons](https://creativecommons.org/licenses/by/3.0/).
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)**Vous travaillez sur votre première pull request ?**Vous pouvez apprendre comment de ceci_libre_série[Comment contribuer à un projet Open Source sur GitHub](https://kcd.im/pull-request)
