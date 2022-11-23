@@ -2,7 +2,8 @@
 
 -   [Régression linéaire simple](https://github.com/drnitinmalik/simple-linear-regression#simple-linear-regression)
 -   [Code et jeu de données](https://github.com/drnitinmalik/simple-linear-regression#code-and-dataset)
--   [Bogues et demandes de fonctionnalités](https://github.com/drnitinmalik/simple-linear-regression#bugs-and-feature-requests)
+-   [Bugs et demandes de fonctionnalités](https://github.com/drnitinmalik/simple-linear-regression#bugs-and-feature-requests)
+-   [Soumettre une pull request](https://github.com/drnitinmalik/simple-linear-regression#submitting-a-pull-request)
 -   [droits d'auteur](https://github.com/drnitinmalik/simple-linear-regression#copyright)
 
 ## Régression linéaire simple
@@ -27,8 +28,10 @@ La[code Python](https://github.com/drnitinmalik/simple-linear-regression/blob/ma
 
 Identifié un bug dans le code ou une demande de fonctionnalité,[merci d'ouvrir un nouveau sujet](https://github.com/drnitinmalik/simple-linear-regression/issues/new/choose)
 
+## Soumettre une pull request
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)**Vous travaillez sur votre première pull request ?**Vous pouvez apprendre comment de ceci_libre_série[Comment contribuer à un projet Open Source sur GitHub](https://kcd.im/pull-request)
+
 ## droits d'auteur
 
 Code et documentation copyright 2020–2022[l'auteur](https://github.com/drnitinmalik/simple-linear-regression/graphs/contributors). Code publié sous la licence MIT. Documents publiés sous[Creative Commons](https://creativecommons.org/licenses/by/3.0/).
-
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)**Vous travaillez sur votre première pull request ?**Vous pouvez apprendre comment de ceci_libre_série[Comment contribuer à un projet Open Source sur GitHub](https://kcd.im/pull-request)
