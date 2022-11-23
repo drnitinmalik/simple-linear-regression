@@ -2,6 +2,7 @@
 - [Simple Linear Regression](https://github.com/drnitinmalik/simple-linear-regression#simple-linear-regression)
 - [Code and dataset](https://github.com/drnitinmalik/simple-linear-regression#code-and-dataset)
 - [Bugs and Feature Requests](https://github.com/drnitinmalik/simple-linear-regression#bugs-and-feature-requests)
+- [Submitting a pull request](https://github.com/drnitinmalik/simple-linear-regression#submitting-a-pull-request)
 - [Copyright](https://github.com/drnitinmalik/simple-linear-regression#copyright)
 
 ## Simple Linear Regression
@@ -24,8 +25,9 @@ The [python code](https://github.com/drnitinmalik/simple-linear-regression/blob/
 ## Bugs and Feature requests
 Identified a bug in the code or a feature requests, [please open a new issue](https://github.com/drnitinmalik/simple-linear-regression/issues/new/choose)
 
-## Copyright
-Code and documentation copyright 2020–2022 [the Author](https://github.com/drnitinmalik/simple-linear-regression/graphs/contributors). Code released under the MIT License. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
-
+## Submitting a pull request
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 **Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://kcd.im/pull-request)
+
+## Copyright
+Code and documentation copyright 2020–2022 [the Author](https://github.com/drnitinmalik/simple-linear-regression/graphs/contributors). Code released under the MIT License. Docs released under [Creative Commons](https://creativecommons.org/licenses/by/3.0/).
